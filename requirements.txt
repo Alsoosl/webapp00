@@ -1,4 +1,4 @@
-streamlit==1.39.0
+streamlit==1.39.0 #não é obrigatório indicar a versão da biblioteca
 pandas
 numpy
 matplotlib
